@@ -3,7 +3,7 @@
 **Mathematics educator & data scientist** based in Ghana. I use data science to help schools make better decisions.
 
 - 🎓 **MSc Data Science**, Koforidua Technical University (2026) · **BEd Mathematics**, University of Cape Coast
-- 🏫 **9 years** teaching mathematics in Ghana; former Head of Mathematics Department, PLC Coordinator and Mentor Trainer
+- 🏫 **9 years** teaching mathematics in Ghana; former Head of Mathematics Department; currently PLC Coordinator and Mentor Trainer
 - 💼 Founder of **AAKIVES Consult**: research & data consulting, online mathematics tuition, and training teachers to use AI in the classroom
 - 🔭 Open to **remote part-time/contract roles** in data analysis, education analytics, research and AI evaluation
 
