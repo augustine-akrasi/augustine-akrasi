@@ -22,7 +22,7 @@
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/augustine-akrasi-3ba695358)
+[LinkedIn](https://www.linkedin.com/in/augustine-akrasi)
 # Hi, I'm Augustine Akrasi 👋
 
 **Mathematics educator & data scientist** based in Ghana. I use data science to help schools make better decisions.
@@ -47,4 +47,4 @@
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/augustine-akrasi-3ba695358)
+[LinkedIn](https://www.linkedin.com/in/augustine-akrasi)
